@@ -2,6 +2,10 @@ from django.contrib import admin
 from escola.models import Aluno, Curso
 
 
+# As configurações nessa classe só valem para o Django Admin -> interface de administração imbutida no django e é
+# gerada de forma automática. As informações aqui não estão no formato Json, para isso é preciso fazer uma ponte
+# utilizando um serializer. Ele transforma informações que o django entende para o json e vice-versa
+
 class Alunos(admin.ModelAdmin):
     list_display: tuple[str, str, str, str, str] = ('id', 'nome', 'rg', 'cpf', 'data_nascimento') # Retorno para admin -> se "assemelha" a um DTO em java
     list_display_links: tuple[str, str] = ('id', 'nome') # Abre a possibilidade de alterar ou editar um aluno clicando em -> id, nome
