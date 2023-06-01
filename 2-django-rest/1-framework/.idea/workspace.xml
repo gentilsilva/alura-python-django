@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="81e079bd-4869-42a2-9039-5cd86b43e903" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/159a0f73-9253-4335-9c09-ff1829c32498.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/159a0f73-9253-4335-9c09-ff1829c32498.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escola/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escola/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
@@ -35,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mariadb"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="1-framework" />
@@ -83,7 +82,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684978133076</updated>
-      <workItem from="1684978135085" duration="4538000" />
+      <workItem from="1684978135085" duration="4787000" />
+      <workItem from="1685046690646" duration="3448000" />
+      <workItem from="1685072581058" duration="24000" />
     </task>
     <servers />
   </component>
